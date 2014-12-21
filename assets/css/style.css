@@ -517,14 +517,12 @@ pre {
   transition: background-color 0.1s;
 }
 
-
 .home a {
   color: black;
 }
 
 .home h2 {
   font-size: 32px;
-
 }
 
 .entries h3 span {
