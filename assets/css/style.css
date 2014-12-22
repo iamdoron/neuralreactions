@@ -567,6 +567,15 @@ pre {
 
   #elad,#doron {
     float: none;
-    padding: 10%;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (max-height: 400px) {
+  #elad,#doron {
+    float: none;
+    display: inline-block;
+    margin-bottom: 20px;
   }
 }
