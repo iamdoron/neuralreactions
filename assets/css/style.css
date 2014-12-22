@@ -564,4 +564,9 @@ pre {
     width: 100px;
     *width: 100%;
   }
+
+  #elad,#doron {
+    float: none;
+    padding: 10%;
+  }
 }
